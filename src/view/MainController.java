@@ -49,7 +49,6 @@ public class MainController {
             System.out.println(weights[i]);
         }
 
-
     }
 
     public void loadData() throws FileNotFoundException {
